@@ -31,23 +31,3 @@ Send to numbers or usernames (not saved in contacts), grab group members, bulk i
 ```bash
 git clone https://github.com/engrshuvodas/TGTools-1.0.0.git
 
-
-<h3>📩 Need Help or Want to Buy?</h3>
-<p>
-  Contact me on WhatsApp: <a href="https://wa.me/8801765245872" target="_blank">+8801765245872</a><br>
-  Or DM me on Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank">@engrshuvo74886</a>
-</p>
-
-<h3>🔧 Technologies Used</h3>
-<ul>
-  <li>✅ HTML</li>
-  <li>✅ PHP / JavaScript</li>
-  <li>✅ Desktop App Logic (Custom)</li>
-</ul>
-
-<h3>🙌 Special Thanks</h3>
-<p>
-  To all developers and clients who supported the development of this powerful license manager tool 💡
-</p>
-
-<h4>🧑‍💻 Developed with ❤️ by Engr Shuvo Das</h4>
